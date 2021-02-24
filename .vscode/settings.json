@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": true,
+    "python.linting.pylintEnabled": true,
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.languageServer": "Pylance",
+    "python.autoComplete.extraPaths": [
+        "./src/movies_recommend/"
+    ],
+    "python.analysis.extraPaths": [
+        "./src/movies_recommend/"
+    ]
+}
