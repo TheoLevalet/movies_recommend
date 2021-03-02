@@ -1,5 +1,9 @@
 # Movies Recommender
 
+[Item based collaborative filtering in KNN](https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea) movies recommender by data scientist [Kevin Liao](https://github.com/KevinLiao159).
+
+[Forked from github](https://github.com/KevinLiao159/MyDataSciencePortfolio/blob/master/movie_recommender/src/knn_recommender.py).
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -145,8 +149,6 @@ Add additional notes about how to deploy this on a live system
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [branches on this repository](https://github.com/SimonHuet/capital_problem/tags).
 
 ## Authors
-
-- **Simon Huet** - _Engineer Developer_
 
 - **Theo Levalet** - _Engineer Developer_
 
